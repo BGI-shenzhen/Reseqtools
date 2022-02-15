@@ -1,8 +1,8 @@
 # Reseqtools
 <b>A Toolkit for analyzing next-generation DNA Re-Sequencing data</b>
 
-The <b>new version</b> will be updated and maintained in <b>[hewm2008/VCF2Dis](https://github.com/hewm2008/VCF2Dis)</b>, please click below Link to download the latest version
-</br><p align="center"><b>[hewm2008/VCF2Dis](https://github.com/hewm2008/VCF2Dis)</b></p>
+The <b>new version</b> will be updated and maintained in <b>[hewm2008/Reseqtools](https://github.com/hewm2008/Reseqtools)</b>, please click below website to download the latest version
+</br><p align="center"><b>[hewm2008/Reseqtools](https://github.com/hewm2008/Reseqtools)</b></p>
 <br/>
 If you have any question ,contact the email: hewm2008@gmail.com  /  hewm2008@qq.com  and also join the<b><i> QQ Group : 125293663</b></i> we will send you the newest  Reseqtools (iTools_CodeXX.tar.gz)  for you  
 iTools_Code20141231.tar.gz
